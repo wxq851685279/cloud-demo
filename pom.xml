@@ -63,5 +63,6 @@
     <module>cloud-demo-eureka-client</module>
     <module>cloud-demo-eureka-consumer</module>
     <module>cloud-demo-eureka-ribbon</module>
+    <module>cloud-demo-eureka-ribbon-hystrix</module>
   </modules>
 </project>
